@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "acdf0bfff0a1d298878127e324218e51cf605be1",
+    "author": "Paula Andrea Martinez <orchid00@users.noreply.github.com>",
+    "time": "2020-10-28 10:16:13",
+    "files": 1,
+    "merge": false,
+    "message": "Update README.md"
+  },
+  "remote": "https://github.com/ropensci/chromer",
+  "pkg": "chromer"
+}
