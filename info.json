@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "86a84541d040dfbe17292d539d71cca0c5590914",
+    "author": "Karl Broman <kbroman@gmail.com>",
+    "time": "2024-03-27 11:23:31",
+    "files": 8,
+    "merge": true,
+    "message": "Merge pull request #41 from kbroman/cran\n\nAPI url has changed"
+  },
+  "repo": "https://github.com/ropensci/chromer",
+  "pkg": "chromer"
+}
