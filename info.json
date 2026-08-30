@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "033633272cd08f911f9909d90dcbc84c4df64022",
+    "author": "Karl Broman <kbroman@gmail.com>",
+    "time": "2026-06-02T11:30:03Z",
+    "files": 1,
+    "merge": false,
+    "message": "README: make link to package logo a full url https://raw.githubusercontent...\n"
+  },
+  "repo": "https://github.com/ropensci/chromer",
+  "pkg": "chromer",
+  "time": "2026-08-30T07:20:24Z"
+}

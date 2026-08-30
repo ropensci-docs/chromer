@@ -1,0 +1,4 @@
+# License
+
+    YEAR: 2022
+    COPYRIGHT HOLDER: Matthew Pennell, Paula Andrea Martinez, and Karl W Broman
